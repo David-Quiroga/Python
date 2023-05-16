@@ -1,8 +1,8 @@
 class Persona {
-    public  nombre        :string;
-    public  identificacion:string;
-    public  edad          :number;
-    public  direccion     :string;
+    # public  nombre        :string;
+    # public  identificacion:string;
+    # public  edad          :number;
+    # public  direccion     :string;
 
     constructor (nombre : string, identificacion:string, edad:number, direccion:string){
         this.nombre = nombre;
